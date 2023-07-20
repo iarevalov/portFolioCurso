@@ -1,0 +1,10 @@
+h1, h3{
+    color: rgb(250, 250, 250);
+}
+.hcLinks{
+    color:azure;
+    text-decoration: none;
+}
+.hcLinks:hover{
+    text-shadow: 1px 1px 5px azure;
+}
